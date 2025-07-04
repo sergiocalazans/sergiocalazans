@@ -46,7 +46,7 @@ Busco sempre me aprimorar em **Desenvolvimento Web**, **Data Science** e **Intel
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="Processing" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
