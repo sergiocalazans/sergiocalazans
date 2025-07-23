@@ -12,7 +12,7 @@
 
 ## 📝 Sobre mim
 
-Sou Sérgio Calazans, estudante de Ciência da Computação na PUCPR, apaixonado por tecnologia, programação e aprendizado contínuo. Tenho experiência prática em desenvolvimento de software, automação de processos e análise de dados, adquirida tanto em projetos pessoais quanto em estágios.  
+Sou Sérgio Calazans, estudante de Ciência da Computação na PUCPR, apaixonado por tecnologia, programação e aprendizado contínuo. Tenho experiência prática em desenvolvimento web, ciência de dados e análise de dados, adquirida tanto em projetos pessoais quanto em estágios.  
 
 Entre 2023 e 2024, atuei no Tribunal de Justiça do Estado do Paraná (TJPR) como estagiário de ensino médio, onde trabalhei com Python, gestão de dados, automação de tarefas e suporte técnico, desenvolvendo habilidades em ambientes jurídico e tecnológico.  
 
