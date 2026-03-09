@@ -77,7 +77,7 @@ https://portfolio-ten-lemon-23.vercel.app/
 # 🌎 Idiomas
 
 🇧🇷 Português — Nativo  
-🇺🇸 Inglês — Intermediário  
+🇺🇸 Inglês — Básico  
 🇪🇸 Espanhol — Intermediário
 
 ---
