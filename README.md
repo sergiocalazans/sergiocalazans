@@ -63,7 +63,7 @@ https://portfolio-ten-lemon-23.vercel.app/
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 
 <!-- Automação / Microsoft -->
-<img src="https://img.icons8.com/color/48/power-automate.png" alt="Power Automate" width="40" height="40"/>
+<img src="[https://img.icons8.com/color/48/power-automate.png](https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000)" alt="Power Automate" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
 
 <!-- Ferramentas -->
