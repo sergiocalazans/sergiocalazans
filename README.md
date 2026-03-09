@@ -63,7 +63,7 @@ https://portfolio-ten-lemon-23.vercel.app/
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 
 <!-- Automação / Microsoft -->
-<img src="https://img.icons8.com/color/48/power-automate.png" alt="Power Automate" width="40" height="40"/>
+<img src="https://icons8.com.br/icon/kTTt25v6Drpd/microsoft-power-automate-202)" alt="Power Automate" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
 
 <!-- Ferramentas -->
@@ -71,15 +71,6 @@ https://portfolio-ten-lemon-23.vercel.app/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 
-</p>
-
----
-
-# 📊 Github Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiocalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocalazans&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
