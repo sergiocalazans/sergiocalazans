@@ -14,18 +14,6 @@
 
 Sou **Sérgio Calazans**, estudante de **Ciência da Computação na PUCPR**, apaixonado por tecnologia, programação e aprendizado contínuo. Tenho interesse especial em **automação de processos, desenvolvimento web, análise de dados e inteligência artificial**, buscando sempre aplicar tecnologia para resolver problemas reais e otimizar processos.
 
-Minha trajetória profissional começou no **Tribunal de Justiça do Estado do Paraná (TJPR)**, onde atuei como **estagiário de ensino médio (2023–2024)**, trabalhando com **Python, automação, gestão de dados e suporte técnico**, além de colaborar com organização de documentos, controle de informações e sistemas internos.
-
-Em **2025**, atuei no **Instituto Federal do Paraná (IFPR)** como **estagiário em gestão de conteúdo web**, sendo responsável pela **manutenção e atualização do site institucional da PROGEPE**, utilizando **WordPress**, além de desenvolver **protótipos de páginas com HTML e CSS** e oferecer suporte aos usuários do portal.
-
-Posteriormente, retornei ao **TJPR (2025–2026)** como **estagiário em Automação e Análise de Dados**, trabalhando com:
-
-- Desenvolvimento de **automações com Power Automate**
-- Integração de ferramentas do **Microsoft 365**
-- Criação de **planilhas avançadas no Excel (dashboards, macros e tabelas dinâmicas)**
-- Uso de **Inteligência Artificial para extração e tratamento de dados**
-- Análise de processos administrativos (férias, rescisões e 13º salário)
-
 Atualmente busco evoluir principalmente nas áreas de:
 
 - ⚙️ **Automação de Processos**
