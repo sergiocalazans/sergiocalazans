@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, eu sou Sérgio Calazans!</h1>
+<h1 align="center">👋 Hello there, I'm Sérgio Calazans!</h1>
 
 <p align="center">
   🎓 Computer Science Student | 🤖 Automation, Web Development & Data/AI
