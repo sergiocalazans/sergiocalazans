@@ -55,7 +55,6 @@
 
 ### 🤖 Automation Process
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/PyAutoGUI-yellow?style=for-the-badge&logo=python&logoColor=blue" />  
 </p>
