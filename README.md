@@ -8,11 +8,9 @@
   ⭐️ <i>"This is the way."</i> — The Mandalorian
 </p>
 
-## 👨‍💻 Sobre mim | About me
+## 👨‍💻 About me
 
-🇧🇷 Sou estudante de **Ciência da Computação na PUCPR**, com foco em **análise de dados, bancos de dados e computação aplicada**. Participo de **iniciação científica voluntária em Cibersegurança** e exploro temas como Big Data, algoritmos, programação lógica e sistemas computacionais. Minha trajetória também inclui projetos de desenvolvimento web, automação e sistemas embarcados, conectando teoria e prática na solução de problemas.
-
-🇺🇸 I'm a **Computer Science student at PUCPR**, focused on **data analysis, databases, and applied computing**. I participate in **volunteer undergraduate research in Cybersecurity** and explore topics such as Big Data, algorithms, logic programming, and computer systems. My background also includes web development, automation, and embedded systems projects, connecting theory with practical problem-solving.
+I'm a **Computer Science student at PUCPR**, focused on **data analysis, databases, and applied computing**. I participate in **volunteer undergraduate research in Cybersecurity** and explore topics such as Big Data, algorithms, logic programming, and computer systems. My background also includes web development, automation, and embedded systems projects, connecting theory with practical problem-solving.
 
 ## 🖥️ Tech Stack & Technologies
 
@@ -76,18 +74,26 @@
 
 <div align="center">
 
-<img alt="Estatísticas do GitHub" height="175" src="https://github-readme-stats.vercel.app/api?username=sergiocalazans&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img alt="Linguagens mais presentes nos repositórios" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocalazans&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=sergiocalazans&show_icons=true&theme=tokyonight&include_all_commits=true="
+/>
+<img
+  alt="Top Languages"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocalazans&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9&locale=en"
+/>
 
 </div>
 
-## 🌎 Idiomas | Languages
+## 🌎 Languages
 
-- 🇧🇷 **Português:** Nativo / Native
-- 🇪🇸 **Espanhol:** Intermediário / Intermediate
-- 🇺🇸 **Inglês:** Intermediário / Intermediate
+- 🇧🇷 **Portuguese:** Native
+- 🇪🇸 **Spanish:** Intermediate
+- 🇺🇸 **English:** Intermediate
 
-## 📫 Contato | Contact
+## 📫 Contact
 
 <div align="center">
 
