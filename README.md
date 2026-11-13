@@ -1,104 +1,113 @@
-<h1 align="center">👋 Hello there, I'm Sérgio Calazans!</h1>
-
-<p align="center">
-  🎓 Computer Science Student at PUCPR | 📊 Data & Analytics | 🔐 Cybersecurity Research
-</p>
-
-<p align="center">
-  ⭐️ <i>"This is the way."</i> — The Mandalorian
-</p>
-
-## 👨‍💻 About me
-
-I'm a **Computer Science student at PUCPR**, focused on **data analysis, databases, and applied computing**. I participate in **volunteer undergraduate research in Cybersecurity** and explore topics such as Big Data, algorithms, logic programming, and computer systems. My background also includes web development, automation, and embedded systems projects, connecting theory with practical problem-solving.
-
-## 🖥️ Tech Stack & Technologies
-
-### 📊 Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-### 🗄️ Databases
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
-
-### 🤖 Automation
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square)
-
-### 🚀 DevOps & Deployment 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🔌 Embedded Systems 
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=flat-square)
-
-### 🛠️ Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=sergiocalazans&show_icons=true&theme=tokyonight&include_all_commits=true="
-/>
-<img
-  alt="Top Languages"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocalazans&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9&locale=en"
-/>
+<img src="./assets/galaxy-header.svg" alt="Sérgio Calazans | Software, Data, Automation and AI" width="100%" />
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE-PORTFOLIO-071525?style=for-the-badge&logo=githubpages&logoColor=F4C95D&labelColor=10172A)](https://github.com/sergiocalazans/portfolio-v2)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-071525?style=for-the-badge&logo=linkedin&logoColor=79D4FF&labelColor=10172A)](https://www.linkedin.com/in/sergio-calazans/)
+[![GitHub](https://img.shields.io/badge/EXPLORE-REPOSITORIES-071525?style=for-the-badge&logo=github&logoColor=white&labelColor=10172A)](https://github.com/sergiocalazans?tab=repositories)
+
+<img src="./assets/transmission.svg" alt="Holotransmission: Always learning. Always building." width="88%" />
 
 </div>
 
-## 🌎 Languages
+### `// 01` THE ORIGIN STORY
 
-- 🇧🇷 **Portuguese:** Native
-- 🇪🇸 **Spanish:** Intermediate
-- 🇺🇸 **English:** Intermediate
+> **The Force is strong with this code.**
 
-## 📫 Contact
+I'm **Sérgio Calazans**, a **Computer Science undergraduate at PUCPR**, a software developer, and an enthusiast of **data engineering, automation, artificial intelligence, and cybersecurity**. My coding journey began in 2021, growing from small experiments into web applications, data pipelines, automations, and IoT projects.
+
+I enjoy connecting **software engineering and data science** to turn complex challenges into practical, well-documented solutions.
+
+```text
+┌────────────────────── GALACTIC PERSONNEL FILE ──────────────────────┐
+│ DESIGNATION      Computer Science Undergraduate · PUCPR            │
+│ SPECIALTIES      Software Development · Data · Automation · AI     │
+│ OTHER SYSTEMS    Cybersecurity · IoT · Distributed Computing       │
+│ ACTIVE PROTOCOL  Learning · Experimenting · Building              │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### `// 02` CHOOSE YOUR PATH
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calazanssergiohenrique@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocalazans/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiocalazans)
+| 🔵 THE LIGHT SIDE | 🟡 THE EXPLORER PATH | 🔴 THE DARK SIDE |
+|:---:|:---:|:---:|
+| **Software Engineering** | **Data & AI** | **Cybersecurity** |
+| React · Python · SQL | Pandas · PySpark · Power BI | Research · Networks · Systems |
+| Build reliable systems | Discover patterns in data | Understand and defend systems |
+
+</div>
+
+### `// 03` THE TECH ARSENAL
+
+<div align="center">
+
+**Core languages**
+
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=F4C95D)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=F4C95D)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=79D4FF)
+![Java](https://img.shields.io/badge/Java-0D1B2A?style=for-the-badge&logo=openjdk&logoColor=79D4FF)
+![C](https://img.shields.io/badge/C-0D1B2A?style=for-the-badge&logo=c&logoColor=79D4FF)
+
+**Engineering & interfaces**
+
+![React](https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=79D4FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=F4C95D)
+![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css&logoColor=79D4FF)
+![Flask](https://img.shields.io/badge/Flask-0D1B2A?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1B2A?style=for-the-badge&logo=docker&logoColor=79D4FF)
+![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=F4C95D)
+
+**The data galaxy**
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=79D4FF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=79D4FF)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1B2A?style=for-the-badge&logo=apachespark&logoColor=F4C95D)
+![Hadoop](https://img.shields.io/badge/Hadoop-0D1B2A?style=for-the-badge&logo=apachehadoop&logoColor=F4C95D)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1B2A?style=for-the-badge&logo=powerbi&logoColor=F4C95D)
+![Supabase](https://img.shields.io/badge/Supabase-0D1B2A?style=for-the-badge&logo=supabase&logoColor=79D4FF)
+
+</div>
+
+### `// 04` FEATURED MISSIONS
+
+| Mission | Briefing | Stack |
+|:---|:---|:---|
+| [**Sistema-X**](https://github.com/sergiocalazans/Sistema-X) | Clinical screening web application with assessment management and reporting. | `Flask` `MySQL` `Docker` |
+| [**Big Data · MapReduce**](https://github.com/sergiocalazans/big-data-mapreduce-pjbl1) | Distributed data processing and analytics using Hadoop. | `Java` `Hadoop` |
+| [**Big Data · PySpark**](https://github.com/sergiocalazans/big-data-pyspark) | Data queries and transformations using Apache Spark. | `Python` `PySpark` `SparkSQL` |
+| [**ESP32 · IoT & MQTT**](https://github.com/sergiocalazans/esp32-iot-mqtt) | Sensor monitoring, rule-based alerts, and MQTT communication. | `ESP32` `MicroPython` `MQTT` |
+| [**Curriculum Advisor**](https://github.com/sergiocalazans/curriculum-advisor) | Rule-based logic and inference for academic course planning. | `Prolog` |
+
+<div align="center">
+
+[**VIEW ALL MISSIONS »**](https://github.com/sergiocalazans?tab=repositories)
+
+</div>
+
+### `// 05` GALACTIC ACTIVITY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiocalazans&theme=github_dark&animation=draw" alt="GitHub contribution activity over time" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergiocalazans&theme=github_dark&animation=load" alt="GitHub repository and contribution statistics" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergiocalazans&theme=github_dark&animation=stagger" alt="Languages used across public repositories" height="170" />
+
+</div>
+
+> Language statistics reflect public repository data, not necessarily proficiency. Live cards are hosted by a third-party service and may occasionally be unavailable.
+
+---
+
+<div align="center">
+
+**THE JOURNEY CONTINUES...**
+
+<sub>Built with curiosity, code and a little bit of the Force · © Sérgio Calazans</sub>
 
 </div>
