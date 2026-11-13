@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-label="Sérgio Calazans — developer across the galaxy">
+<defs>
+  <radialGradient id="nebula"><stop stop-color="#193555"/><stop offset=".55" stop-color="#101729"/><stop offset="1" stop-color="#050711"/></radialGradient>
+  <linearGradient id="saber" x1="0" x2="1"><stop stop-color="#24a9ff"/><stop offset=".5" stop-color="#b9eaff"/><stop offset="1" stop-color="#24a9ff"/></linearGradient>
+  <filter id="glow" x="-50%" y="-150%" width="200%" height="400%"><feGaussianBlur stdDeviation="6"/></filter>
+  <pattern id="stars" width="113" height="89" patternUnits="userSpaceOnUse"><circle cx="8" cy="15" r="1" fill="#e2f4ff"/><circle cx="88" cy="53" r="1.3" fill="#91b7d8"/><circle cx="54" cy="79" r=".65" fill="#fff"/></pattern>
+  <style>
+    .starfield{animation:drift 28s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}.appear{animation:show 8s ease-in-out infinite}.scan{animation:scan 6s linear infinite}
+    @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-113px)}}
+    @keyframes pulse{0%,100%{opacity:.52}50%{opacity:1}}
+    @keyframes show{0%{opacity:0}13%,82%{opacity:1}100%{opacity:0}}
+    @keyframes scan{0%{transform:translateX(-580px);opacity:0}12%{opacity:.65}85%{opacity:.65}100%{transform:translateX(600px);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+<rect width="1200" height="390" fill="url(#nebula)"/>
+<rect class="starfield" width="1426" height="390" fill="url(#stars)" opacity=".75"/>
+<g opacity=".45"><circle cx="110" cy="300" r="100" fill="#112a41"/><circle cx="1078" cy="100" r="125" fill="#141b35"/></g>
+<path d="M50 52H230M970 52H1150M50 338H230M970 338H1150" stroke="#365371" stroke-width="2"/>
+<path d="M50 52V90M1150 52V90M50 300V338M1150 300V338" stroke="#365371" stroke-width="2"/>
+<g fill="#e7bd57" font-family="Arial,sans-serif" text-anchor="middle" letter-spacing="6"><text x="600" y="78" font-size="16">A NEW CHAPTER IN THE GALAXY</text></g>
+<text x="600" y="165" fill="#f3f7ff" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="800" letter-spacing="3" text-anchor="middle">SÉRGIO CALAZANS</text>
+<text x="600" y="208" fill="#b3c7de" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="4" text-anchor="middle">SOFTWARE  ·  DATA  ·  AUTOMATION  ·  AI</text>
+<g class="pulse"><rect x="255" y="248" width="690" height="17" rx="8" fill="#25a5ff" opacity=".55" filter="url(#glow)"/><rect x="255" y="254" width="690" height="5" rx="2" fill="url(#saber)"/><path d="M246 250h-75v13h75v-13z" fill="#8096a5"/><path d="M185 249v15m12-15v15m12-15v15" stroke="#162331" stroke-width="4"/></g>
+<text class="appear" x="600" y="308" fill="#e8be63" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" text-anchor="middle">BUILDING SOLUTIONS IN A GALAXY OF POSSIBILITIES</text>
+<rect class="scan" x="593" y="92" width="2" height="116" fill="#6edbff" opacity=".4"/>
+</svg>

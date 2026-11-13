@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" role="img" aria-label="Holographic transmission: Always learning. Always building.">
+<defs><linearGradient id="bg"><stop stop-color="#071526"/><stop offset="1" stop-color="#0c0b1c"/></linearGradient><style>.blink{animation:blink 1.4s steps(1) infinite}.signal{animation:fade 3s ease-in-out infinite}@keyframes blink{50%{opacity:0}}@keyframes fade{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<rect width="1000" height="130" rx="16" fill="url(#bg)"/><rect x="12" y="12" width="976" height="106" rx="11" fill="none" stroke="#3b779b" opacity=".65"/>
+<circle class="signal" cx="49" cy="39" r="7" fill="#4de0c2"/><text x="69" y="45" fill="#75d8e3" font-family="monospace" font-size="18" letter-spacing="2">HOLOTRANSMISSION // ONLINE</text>
+<text x="50" y="91" fill="#f1d37a" font-family="monospace" font-size="24">Always learning. Always building.</text><rect class="blink" x="604" y="70" width="12" height="25" fill="#f1d37a"/>
+</svg>
